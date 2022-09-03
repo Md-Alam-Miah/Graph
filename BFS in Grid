@@ -1,3 +1,6 @@
+A grid n x m, * means you can go over it, # means it's blocked. you can go left, up, down, right.
+what is the shortest distance between x1,y1 to x2,y2, answer -1 if impossible
+
 #include<bits/stdc++.h>
 using namespace std;
 using ll=long long;
